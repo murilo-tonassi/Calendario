@@ -35,5 +35,6 @@
 - [boot strap](https://getbootstrap.com)
  
 ## Autores 👥
-- [Naillim Novaski](https://github.com/naillimnovaski)
+- [Murilo Tonassi](https://github.com/murilo-tonassi)
 - [Nicolas Tonassi](https://github.com/nicolas-tonassi)
+- [Pamela Souza](https://github.com/PamelaSouzaSilva)
