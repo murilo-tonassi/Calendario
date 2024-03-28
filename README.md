@@ -1,6 +1,6 @@
 # Calendario
 
-* [Cardápio](#cardapio)
+* [Clendário](#Calemdario)
 * [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
