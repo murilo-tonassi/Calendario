@@ -28,11 +28,8 @@
 - CSS3;
 - Github;
 - Git;
-- Boot Strap;
 - HTML5;
- 
-## Fontes Consultadas 🔗
-- [boot strap](https://getbootstrap.com)
+- JavaScript.
  
 ## Autores 👥
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
