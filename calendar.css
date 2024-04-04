@@ -3,7 +3,7 @@ body{
  
 }  
 table, td, th{
-    border: solid 4px black;
+    border: solid 3px black;
     border-collapse: collapse;
 }
 th{
@@ -41,5 +41,6 @@ h6{
 }
 td{
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
