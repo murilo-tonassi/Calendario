@@ -35,6 +35,6 @@
 - JavaScript.
  
 ## Autores 👥
-- [Murilo Tonassi](https://github.com/murilo-tonassi)
+- [Murilo Tonassi](https://github.com/murilo-tonassi) - [LinkedIn:](www.linkedin.com/in/murilo-tonassi)
 - [Nicolas Tonassi](https://github.com/nicolas-tonassi)
 - [Pamela Souza](https://github.com/PamelaSouzaSilva)
